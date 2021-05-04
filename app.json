@@ -1,0 +1,11 @@
+{
+  "name": "Telegram Bot In NodeJS",
+  "description": "A Telegram Bot In Node JS",
+  "keywords": [
+    "telegram"
+  ],
+  "repository": "https://github.com/yasirarism",
+  "success_url": "https://t.me/ymoviez",
+  "website": "https://www.yasir.my.id",
+  "stack": "container"
+}
